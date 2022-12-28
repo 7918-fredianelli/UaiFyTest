@@ -1,0 +1,129 @@
+.Banner1{
+    width: 100%;
+    margin-bottom: 3%;
+}
+.ContainerLogo{
+    position: absolute;
+    width: 85%;
+    text-align: right;
+}
+.ContainerText{
+    width: 42%;
+    text-align: left;
+    margin: auto;
+}
+.ContainerVideo{
+    margin-top: 4%;
+    text-align: center;
+    margin-bottom: 4%;
+}
+.ContainerSoluctions{
+    text-align: center;
+    width: 42%;
+    margin: auto;
+}
+.SoluctionsTitle{
+    color: #FDD000;
+    font-weight: bold;
+    font-size: 48px;
+}
+.ContainerMonitores{
+    display: flex;
+    justify-content: space-between;
+    padding-top: 5%;
+    padding-bottom: 5%;
+    padding-left: 10%;
+    padding-right: 20%;
+}
+.TextMonitores{
+    margin-left: 5%;    
+}
+
+.ContainerFrota{
+    display: flex;
+    justify-content: space-between;
+    padding-top: 5%;
+    padding-bottom: 5%;
+    padding-left: 20%;
+    padding-right: 10%;
+}
+.TextFrota{
+    text-align: right;
+    margin-right: 5%;
+}
+.ColorH2{
+    color: #FDD000;
+    font-weight: bold;
+}
+.Margem{
+    text-align: center;
+    color: #707070;
+}
+.TitleForm{
+    text-align: center;
+    font-weight: bold;
+}
+.ContainerCityState{
+    width: 100%;
+    display: flex;
+    justify-content: center;
+}
+.State{
+    margin-right: 0.5%;
+}
+.City{
+    margin-left: 0.5%;
+}
+.ContainerForm{
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    
+}
+.ContainerTitleForm{
+    padding: 4%;
+}
+.TextArea{
+   height: 150px;
+}
+.Opcional{
+    color: #707070;
+}
+.Space{
+    margin-bottom: 2%;
+}
+.Button{
+    width: 100%;
+    background-color: #003E85;
+    color: white;
+    outline: none;
+    border: none;
+    padding: 2%;
+    border-radius: 15px;
+}
+.ContainerFooter{
+    margin-top: 10%;
+    background-color: #003E85;
+    padding: 5%;
+}
+.ContainerFather{
+    color: white;
+    border-top: 0.1px solid #fdd000;
+    padding: 2%;
+    display: flex;
+    justify-content: space-between;
+}
+.ContainerIcons{
+    display: flex;
+}
+.Icons{
+    margin-left: 8%;
+}
+.ContainerInfo{
+    text-align: right;
+}
+.Privacidade{
+    color: #9F9F9F;
+}
